@@ -1,7 +1,8 @@
+import HomeLayout from '../components/HomeLayout';
+
 const Index = () => (
-    <div>
-      <p>Hello Next.js</p>
-    </div>
+    <HomeLayout>
+    </HomeLayout>
   )
   
   export default Index
