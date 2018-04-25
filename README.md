@@ -1,6 +1,6 @@
 <h1 align="center">Bootstrap Next</h1>
 <p align="center">
-    An Next.js starter with Bootstrap
+    A Next.js starter with Bootstrap
 </p>
 
 ## Quick start
